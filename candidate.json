@@ -1,0 +1,51 @@
+{
+  "schema_version": "1.0",
+  "type": "candidate_profile",
+  "name": "Alexey Denisov",
+  "public_name": "Human Endpoint",
+  "updated_at": "2026-10-23",
+  "location": {
+    "country": "Israel",
+    "remote_eligibility": "Only roles explicitly open to residents of Israel"
+  },
+  "headline": "Technical Support Leadership | Cloud Infrastructure | Customer Engineering",
+  "experience_summary": "Approximately 15 years in technical support, infrastructure operations, and engineering leadership.",
+  "skills": [
+    "Technical support leadership",
+    "Distributed team management",
+    "Complex escalations",
+    "Cloud infrastructure",
+    "Enterprise IT operations",
+    "Customer-facing engineering",
+    "Technical troubleshooting",
+    "Operational process improvement",
+    "Kubernetes exposure",
+    "AI cloud exposure"
+  ],
+  "role_interests": [
+    "Support Engineering Manager",
+    "Head of Support",
+    "Technical Account Manager",
+    "Solutions Engineer",
+    "Customer Engineer",
+    "Forward Deployed Engineer",
+    "Cloud Operations",
+    "Technical Operations"
+  ],
+  "contact": {
+    "method": "email",
+    "address": "human.endpoint@gmail.com",
+    "human_approval_required": true
+  },
+  "links": {
+    "homepage": "https://no13exit.github.io/hire/",
+    "linkedin": "https://www.linkedin.com/in/alex-denisov-7512a897/"
+  },
+  "discovery": {
+    "profile_url": "https://no13exit.github.io/hire/hire.md",
+    "active_a2a_endpoint": false,
+    "agent_card_url": null,
+    "automated_submission_authorized": false
+  },
+  "outreach_policy": "Individual, relevant, identifiable professional opportunities only. No authorization for automated application or transfer of further personal documents."
+}
